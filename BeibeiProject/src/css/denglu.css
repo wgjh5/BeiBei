@@ -1,0 +1,26 @@
+#verify {
+        /**display:block;*/
+        height: 30px;
+        width: 233px;
+        vertical-align: top;
+        font-size: 16px;
+        position: relative;
+        margin-top:10px;
+        padding: 0 10px;
+        /*width: 278px;
+        height: 30px;*/
+        outline: 0;
+        border: 1px solid #ccc;
+        background: 0 0;
+        color: #666;
+        font-size: 12px;
+        line-height: 30px;
+    }
+
+    #code_img {
+        margin-top:10px;
+        width: 70px;
+        height: 30px;
+        cursor: pointer;
+        vertical-align: top;
+    }
